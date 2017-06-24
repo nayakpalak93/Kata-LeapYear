@@ -1,4 +1,4 @@
-package com.cengage.TDD.TDD;
+package com.cengage.kata;
 import java.util.Scanner;
 
 public class LeapYear 

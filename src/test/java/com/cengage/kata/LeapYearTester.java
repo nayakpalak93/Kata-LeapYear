@@ -1,8 +1,8 @@
-package com.cengage.index.repo;
+package com.cengage.kata;
 import org.junit.Assert;
 import org.junit.Test;
 
-import com.cengage.TDD.TDD.LeapYear;
+import com.cengage.kata.LeapYear;
 
 public class LeapYearTester {
 
